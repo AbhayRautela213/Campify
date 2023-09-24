@@ -2,7 +2,7 @@
 
 <a href="https://my-campground.herokuapp.com/">
  <p align="center">
-  <img src="![Screenshot (9)](https://github.com/AbhayRautela213/Campify/assets/99676980/2180a3e8-397f-4883-82ea-1b5eeaedeec3)" alt="Campground"
+[Screenshot (9)](https://github.com/AbhayRautela213/Campify/assets/99676980/2180a3e8-397f-4883-82ea-1b5eeaedeec3)
  </p>
 </a>
 
