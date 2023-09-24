@@ -1,4 +1,4 @@
-# 🏕 YelpCamp
+# 🏕 Campify
 
 <a href="https://my-campground.herokuapp.com/">
  <p align="center">
